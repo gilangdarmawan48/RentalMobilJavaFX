@@ -1,0 +1,5 @@
+budi;mo1;2;
+agus;ms2;4;
+marco;mo4;6;
+gilang;ms1;3;
+budi;mo1;2;

@@ -1,0 +1,34 @@
+.background{
+    -fx-background-color: #B3C6DB;
+}
+
+.body{
+    -fx-background-color: #E5E3EB;
+}
+
+.search-box{
+    -fx-background-color: rgba(255,255,255);
+    -fx-background-radius: 100;
+}
+
+.button-menu{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.button-booking{
+    -fx-background-color: #E2C47D;
+    -fx-background-radius: 20;
+}
+
+.mouse-moved: hover{
+    -fx-background-color: #E2C47D;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box, rgba(0,0,0,0.1), 10.0, 0.0, 0.0, 10.0);
+}
+
+.car-item{
+    -fx-background-color: #C1DBD6;
+    -fx-background-radius: 30;
+}
